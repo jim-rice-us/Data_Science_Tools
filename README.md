@@ -1,3 +1,3 @@
-# first_repo
-Just for training
-Added a change
+# IBM Data Science Tools Training
+
+Module 6
